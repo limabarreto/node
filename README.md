@@ -1,6 +1,6 @@
 # API de Notas de Estudo
 
-Este projeto é uma API de notas de estudo construída com Node.js, Express, Sequelize e PostgreSQL. 
+## Este projeto é uma API de notas de estudo construída com Node.js, Express, Sequelize e PostgreSQL. 
 Ele surgiu a partir de um curso antigo de Node.js no YouTube, que já estava desatualizado em vários pontos, 
 principalmente no uso do Sequelize e na estruturação dos models.
 
@@ -16,4 +16,21 @@ Organização modular do projeto, separando models, database e rotas
 
 Integração com Handlebars para renderizar templates HTML simples e visualizar os dados no navegador
 
-O objetivo do projeto é praticar Node.js, Sequelize e CRUD, consolidar conceitos de relacionamentos entre tabelas e mostrar que é possível atualizar conteúdos antigos do curso aplicando boas práticas modernas.
+## 💡 Objetivo do Projeto
+
+- Criar e organizar **usuários** e suas **notas de estudo**
+- Implementar **CRUD completo** para usuários e notas
+- Aprender e aplicar boas práticas modernas do **Sequelize** e **Node.js**
+- Experimentar integração com **template engine** (Handlebars)
+- Publicar no GitHub como estudo pessoal
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Node.js** — Ambiente de execução JavaScript
+- **Express** — Framework para APIs
+- **Sequelize** — ORM para PostgreSQL
+- **PostgreSQL** — Banco de dados relacional
+- **Handlebars** — Template engine para renderizar HTML
+- **npm** — Gerenciador de pacotes
